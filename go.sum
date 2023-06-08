@@ -1,8 +1,8 @@
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343 h1:Y006/19n+TelWvpodfqVwLYI9+HpC0BD+izsuDbdDWY=
-github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
+github.com/grobinson-grafana/matchers v0.0.0-20230608152622-75a5eb70e9e6 h1:yrHQJ5sk3lOxPBKilkrAE2eFjJ5eY143ojz/h+2bHtU=
+github.com/grobinson-grafana/matchers v0.0.0-20230608152622-75a5eb70e9e6/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
